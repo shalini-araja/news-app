@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+Run locally using npm start. The API may not work if blocked by NewsAPI.
+
+
 ### Home Page
 ![Home Page](public/screenshots/home.png)
 
