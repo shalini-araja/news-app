@@ -6,6 +6,26 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Home Page
+![Home Page](public/screenshots/home.png)
+
+### Business News
+![Business News](public/screenshots/business.png)
+
+### Entertainment News
+![Entertainment News](public/screenshots/Entertainment.png)
+
+### Technology News
+![Technology News](public/screenshots/technology.png)
+
+### health News
+![Health News](public/screenshots/health.png)
+
+###
+
+!there is no footer but check to see how end of the website looks like(public/screenshots/footer.png)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
